@@ -1,0 +1,37 @@
+{
+  "Learning BST": {
+    "total_access_cost": 1071408.0,
+    "avg_access_cost": 42.85632,
+    "expected_cost": 42.856319999999954,
+    "wall_clock_time": 0.030268084025010467,
+    "height": 75.0
+  },
+  "AVL Tree": {
+    "total_access_cost": 228960.0,
+    "avg_access_cost": 9.1584,
+    "expected_cost": 9.158400000000013,
+    "wall_clock_time": 0.00857491698116064,
+    "height": 10.0
+  },
+  "Treap": {
+    "total_access_cost": 280114.0,
+    "avg_access_cost": 11.20456,
+    "expected_cost": 11.204560000000031,
+    "wall_clock_time": 0.009777332888916135,
+    "height": 22.0
+  },
+  "Splay Tree": {
+    "total_access_cost": 227564.0,
+    "avg_access_cost": 9.10256,
+    "expected_cost": 9.502879999999985,
+    "wall_clock_time": 0.03943641600199044,
+    "height": 25.0
+  },
+  "Entropy Bound": {
+    "total_access_cost": 0.0,
+    "avg_access_cost": 7.476072138013346,
+    "expected_cost": 7.476072138013346,
+    "wall_clock_time": 0.0,
+    "height": 0.0
+  }
+}

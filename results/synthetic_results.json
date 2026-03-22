@@ -1,0 +1,322 @@
+{
+  "0.0": {
+    "Learning BST": {
+      "expected_cost": 250.5,
+      "avg_access_cost": 250.94508,
+      "wall_clock_time": 0.3403308328706771,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 7.99599999999996,
+      "avg_access_cost": 7.99288,
+      "wall_clock_time": 0.016222333069890738,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 10.771999999999966,
+      "avg_access_cost": 10.79392,
+      "wall_clock_time": 0.018912249943241477,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 11.965999999999964,
+      "avg_access_cost": 11.00728,
+      "wall_clock_time": 0.09588137501850724,
+      "height": 22.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 8.965784284662018,
+      "avg_access_cost": 8.965784284662018,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  },
+  "0.25": {
+    "Learning BST": {
+      "expected_cost": 215.7426068095054,
+      "avg_access_cost": 216.20648,
+      "wall_clock_time": 0.2962751660961658,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 8.009791298378223,
+      "avg_access_cost": 8.00576,
+      "wall_clock_time": 0.015860832994803786,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 10.38955687942538,
+      "avg_access_cost": 10.39034,
+      "wall_clock_time": 0.018676624866202474,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 11.280718770876396,
+      "avg_access_cost": 10.92976,
+      "wall_clock_time": 0.09518729196861386,
+      "height": 21.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 8.907601511613475,
+      "avg_access_cost": 8.907601511613475,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  },
+  "0.5": {
+    "Learning BST": {
+      "expected_cost": 172.45735770375308,
+      "avg_access_cost": 172.889,
+      "wall_clock_time": 0.23154862504452467,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 8.038845206081639,
+      "avg_access_cost": 8.0514,
+      "wall_clock_time": 0.015711791114881635,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 9.963324673653544,
+      "avg_access_cost": 9.95424,
+      "wall_clock_time": 0.01792666711844504,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 10.857926121269836,
+      "avg_access_cost": 10.5795,
+      "wall_clock_time": 0.09286245796829462,
+      "height": 18.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 8.644631131041903,
+      "avg_access_cost": 8.644631131041903,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  },
+  "0.75": {
+    "Learning BST": {
+      "expected_cost": 122.33452378288641,
+      "avg_access_cost": 122.6224,
+      "wall_clock_time": 0.17014904180541635,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 8.098788723423551,
+      "avg_access_cost": 8.10406,
+      "wall_clock_time": 0.015746750170364976,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 9.5328820715811,
+      "avg_access_cost": 9.52868,
+      "wall_clock_time": 0.017115666065365076,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 10.235360767446618,
+      "avg_access_cost": 9.7213,
+      "wall_clock_time": 0.08509583305567503,
+      "height": 20.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 7.995745158501868,
+      "avg_access_cost": 7.995745158501868,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  },
+  "1.0": {
+    "Learning BST": {
+      "expected_cost": 73.6070950692588,
+      "avg_access_cost": 73.6736,
+      "wall_clock_time": 0.1021766250487417,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 8.201741651341154,
+      "avg_access_cost": 8.19926,
+      "wall_clock_time": 0.016393000027164817,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 9.165307986834543,
+      "avg_access_cost": 9.17632,
+      "wall_clock_time": 0.01650650007650256,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 8.451510108192526,
+      "avg_access_cost": 8.23416,
+      "wall_clock_time": 0.07147049997001886,
+      "height": 17.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 6.851167499660579,
+      "avg_access_cost": 6.851167499660579,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  },
+  "1.25": {
+    "Learning BST": {
+      "expected_cost": 37.412467270081756,
+      "avg_access_cost": 37.40318,
+      "wall_clock_time": 0.05202508415095508,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 8.335563298486704,
+      "avg_access_cost": 8.33828,
+      "wall_clock_time": 0.015139833092689514,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 8.906754171999888,
+      "avg_access_cost": 8.8982,
+      "wall_clock_time": 0.015929291024804115,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 6.780497459541407,
+      "avg_access_cost": 6.39874,
+      "wall_clock_time": 0.05551900016143918,
+      "height": 19.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 5.413182446776482,
+      "avg_access_cost": 5.413182446776482,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  },
+  "1.5": {
+    "Learning BST": {
+      "expected_cost": 17.155668227295628,
+      "avg_access_cost": 17.19208,
+      "wall_clock_time": 0.026494832942262292,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 8.468859626232117,
+      "avg_access_cost": 8.46192,
+      "wall_clock_time": 0.015330292051658034,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 8.740341230405722,
+      "avg_access_cost": 8.74992,
+      "wall_clock_time": 0.015578625025227666,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 5.103238964524352,
+      "avg_access_cost": 4.7514,
+      "wall_clock_time": 0.040026416070759296,
+      "height": 18.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 4.077971325647678,
+      "avg_access_cost": 4.077971325647678,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  },
+  "2.0": {
+    "Learning BST": {
+      "expected_cost": 4.134563463893319,
+      "avg_access_cost": 4.16804,
+      "wall_clock_time": 0.008199957897886634,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 8.667458482239107,
+      "avg_access_cost": 8.66674,
+      "wall_clock_time": 0.015099207870662212,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 8.529060070199254,
+      "avg_access_cost": 8.53782,
+      "wall_clock_time": 0.014794166898354888,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 3.376794925080604,
+      "avg_access_cost": 2.77066,
+      "wall_clock_time": 0.02170908311381936,
+      "height": 24.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 2.337516759930821,
+      "avg_access_cost": 2.337516759930821,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  },
+  "2.5": {
+    "Learning BST": {
+      "expected_cost": 1.8808149663727372,
+      "avg_access_cost": 1.89422,
+      "wall_clock_time": 0.005043749930337071,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 8.785296579410135,
+      "avg_access_cost": 8.78262,
+      "wall_clock_time": 0.015136332949623466,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 8.379238093276191,
+      "avg_access_cost": 8.37942,
+      "wall_clock_time": 0.014717750018462539,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 2.4550150439120952,
+      "avg_access_cost": 1.92784,
+      "wall_clock_time": 0.013963958946987987,
+      "height": 26.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 1.4641256825631694,
+      "avg_access_cost": 1.4641256825631694,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  },
+  "3.0": {
+    "Learning BST": {
+      "expected_cost": 1.3667728950939098,
+      "avg_access_cost": 1.37104,
+      "wall_clock_time": 0.004064125008881092,
+      "height": 500.0
+    },
+    "AVL Tree": {
+      "expected_cost": 8.857144228110755,
+      "avg_access_cost": 8.85736,
+      "wall_clock_time": 0.015306625049561262,
+      "height": 9.0
+    },
+    "Treap": {
+      "expected_cost": 8.269142632511896,
+      "avg_access_cost": 8.26906,
+      "wall_clock_time": 0.014504542108625174,
+      "height": 21.0
+    },
+    "Splay Tree": {
+      "expected_cost": 2.1335301211105135,
+      "avg_access_cost": 1.5399,
+      "wall_clock_time": 0.010333499871194363,
+      "height": 24.0
+    },
+    "Entropy Bound": {
+      "expected_cost": 0.978822316237129,
+      "avg_access_cost": 0.978822316237129,
+      "wall_clock_time": 0.0,
+      "height": 0.0
+    }
+  }
+}
